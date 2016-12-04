@@ -1,0 +1,25 @@
+div.container {
+  margin-top: 30px;
+  max-width: 850px;
+}
+input.form-control, textarea.form-control {
+  margin-bottom: 10px;
+}
+.times-icon {
+  float: right;
+  color: #eee;
+  cursor: pointer;
+}
+span.task-title {
+  font-size: 18px;
+}
+span.task-comment {
+  display: block;
+}
+.right {
+  float: right;
+}
+
+div.warning {
+  background-color: #fff1f1;
+}
