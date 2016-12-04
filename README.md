@@ -1,2 +1,2 @@
 # simple-timer
-- A simple-timer with todoApp
+- A simple-timer with todoApp built with react.js (using webpack)
